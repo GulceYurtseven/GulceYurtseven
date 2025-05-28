@@ -38,6 +38,13 @@ Git, RESTful API, Agile, OOP, Problem Solving
 
 ---
 
+## 📊 GitHub İstatistiklerim
+
+![GulceYurtseven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GulceYurtseven&show_icons=true&theme=radical&locale=tr)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GulceYurtseven&layout=compact&theme=radical&locale=tr)
+
+---
+
 ## 📫 Bana Ulaşın
 
 - 📧 [gulceyurtseven@gmail.com](mailto:gulceyurtseven@gmail.com)

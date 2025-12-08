@@ -4,7 +4,7 @@
 🎓 **Başkent Üniversitesi Bilgisayar Mühendisliği** mezunuyum.  
 🎓 I am a graduate of **Başkent University, Computer Engineering**.
 
-💻 Yazılım geliştirme sürecinde üretken, çözüm odaklı ve sürekli öğrenmeye açık bir mühendisim. Java, C#, Python ve web teknolojileriyle projeler geliştiriyorum. Özellikle Unity, .NET, Django ve Spring Framework konularında tecrübem var.  
+💻 Yazılım geliştirme sürecinde üretken, çözüm odaklı ve sürekli öğrenmeye açık bir mühendisim. ASP .NET, Java, C#, Python ve web teknolojileriyle projeler geliştiriyorum. Özellikle Unity, .NET, Django ve Spring Framework konularında tecrübem var.  
 💻 I am a productive, solution-oriented, and constantly learning engineer in the software development process. I develop projects using Java, C#, Python, and web technologies. I have particular experience in Unity, .NET, Django, and Spring Framework.
 
 ---
@@ -43,16 +43,16 @@ Computer Engineering (2019 - 2024)
 ## 🛠️ Skills
 
 **Programlama Dilleri | Programming Languages:**  
-Java, C#, C++, Python
+ C#, Java, Dart, C++, Python, JavaScript
 
 **Frameworkler & Teknolojiler | Frameworks & Technologies:**  
-.NET, Spring Boot, React.js, Django, Unity
+Asp.NET, Unity, Spring Boot, React.js, Django,
 
 **Veritabanları | Databases:**  
 PostgreSQL, MySQL, MsSQL
 
 **Diğer | Others:**  
-Git, RESTful API, Agile, OOP, Problem Solving
+Git, RESTful API, OpenAI API, Agile, Problem Solving, Data Structures, Algorithms, OOP, DB Systems, Operating Systems, Computer Networks
 
 ---
 

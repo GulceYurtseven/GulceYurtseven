@@ -43,7 +43,7 @@ Git, RESTful API, OpenAI API, Agile, Problem Solving, Data Structures, Algorithm
 ## Contact Me
 
 - [gulceyurtseven@gmail.com](mailto:gulceyurtseven@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/ber%C5%9Fan-g%C3%BClce-y-48856322b/)    
+- [LinkedIn](www.linkedin.com/in/berşan-gülce-yurtseven-48856322b)    
 - [Check Out My GitHub Projects](https://github.com/GulceYurtseven)  
 
 ---
